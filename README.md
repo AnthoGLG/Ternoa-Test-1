@@ -4,7 +4,6 @@ Ce projet est un exemple d'utilisation du SDK Ternoa-JS pour interagir avec la b
 Vous pourrez:
 - Vérifier le solde CAPS sur un wallet Ternoa.
 - Envoyer des CAPS
-- Créer un NFT
 
 ## Prérequis
 
